@@ -46,7 +46,7 @@
 [![Notion](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/4435c44ce6ec458894335087f9c197ae?pvs=4)](https://www.notion.so/4435c44ce6ec458894335087f9c197ae?pvs=4)   
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:so222234@gmail.com)](mailto:so222234@gmail.com)   
   
-<h1>Greeting! stranger</h1>
+<h1>Greeting! stranger:wave:</h1>
     
 <p>test<p>
 <b>test</b> 
