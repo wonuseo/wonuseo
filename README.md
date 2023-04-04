@@ -49,6 +49,6 @@
 <h1>Greeting! stranger</h1>
     
 <p>test<p>
-<strong>test</strong> 
+<b>test</b> 
   
 </div>
