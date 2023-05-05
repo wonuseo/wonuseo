@@ -6,9 +6,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python" />
     <img src="https://skillicons.dev/icons?i=spring"/>
-    <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" title="Springboot" alt="Springboot" width="50"   height="50"/>
+    <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=mysql"/>
-    <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" title="Oracle" alt="Oracle" width="50"   height="50"/>
+    <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=postman,git,eclipse,vscode,idea"/>   
     <img src="https://skillicons.dev/icons?i=aws"/>
   </a><br> 
