@@ -2,24 +2,21 @@
   
 <h1>:rocket:Experienced</h1>
     
- <p align="center">
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python" />
-  </a><br>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,git,postman,aws" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=java,python" />
+    <img src="https://skillicons.dev/icons?i=spring"/>
+    <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" title="Springboot" alt="Springboot" width="50"   height="50"/>
+    <img src="https://skillicons.dev/icons?i=mysql"/>
+    <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" title="Oracle" alt="Oracle" width="50"   height="50"/>
+    <img src="https://skillicons.dev/icons?i=postman,git,eclipse,vscode,idea"/>   
+    <img src="https://skillicons.dev/icons?i=aws"/>
+  </a><br> 
 </p> 
   
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=for-the-badge&logo=Sourcetree&logoColor=white)
 ![miro](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
-  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)   
-  
-![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) 
       
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
