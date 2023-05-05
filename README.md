@@ -30,6 +30,8 @@
 
 </div>
 
+<br><br>
+
 ## :ocean: Swept towards me
 [![Notion](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/4435c44ce6ec458894335087f9c197ae?pvs=4)](https://www.notion.so/4435c44ce6ec458894335087f9c197ae?pvs=4) 
 
